@@ -6,7 +6,7 @@ import {
   Image,
 } from 'semantic-ui-react';
 import axios from 'axios';
-import StarwarsLogo from '../images/starwarslogo.png';
+//import StarwarsLogo from '../images/starwarslogo.png';
 import Location from './Location'; 
 import { fetchLocations } from '../reducers/locations';
 import { connect } from 'react-redux';

@@ -4,7 +4,7 @@ import {
   Button,
   Input,
 } from 'semantic-ui-react';
-import axios from 'axios';
+//import axios from 'axios';
 import { deleteLocation, updateLocation } from '../reducers/locations';
 import { connect } from 'react-redux';
 
